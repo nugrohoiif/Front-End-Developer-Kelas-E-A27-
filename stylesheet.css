@@ -1,0 +1,68 @@
+/*INI BAGIAN SECTION ABOUT US */
+.section-aboutus {
+    background-color:#F5F9FE;
+    height: 400px;
+    /*padding:100px;*/
+}
+
+.isi-aboutus-right {
+    float:right;
+}
+
+.isi-aboutus-left {
+    float:left;
+    margin: 100px;
+}
+
+
+.isi-aboutus-left h3 {
+    font-family: 'Roboto';
+    color:#06737C;
+}
+
+.isi-aboutus-left h1 {
+    font-family: 'Roboto';
+    color:#484B4B;
+}
+
+.isi-aboutus-right img {
+    width:60%;
+}
+
+/*INI BAGIAN OUR PRODUCTS*/
+.section-our-products {
+    background-color:#F5F9FE;
+    height: 700px;
+    padding: 100px;
+}
+
+.section-our-products h3 {
+    font-family: 'Roboto';
+    color:#06737C;
+}
+
+.vintage-chair {
+  width: 300px;
+  height: 450px;
+  margin-right: 10px;
+  text-align: center;
+  font-family: 'Roboto';
+  background-color:#E6E6E6;
+  border-radius: 30px;
+  display:inline-block;
+}
+
+.vintage-chair img {
+    width:100%;
+}
+    
+.vintage-chair button {
+  padding: 12px;
+  color: white;
+  background-color: #06737C;
+  text-align: center;
+  cursor: pointer;
+  width: 50%;
+  font-size: 18px;
+  border-radius: 50px;
+}
